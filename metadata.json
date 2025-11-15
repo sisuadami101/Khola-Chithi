@@ -1,0 +1,7 @@
+{
+  "name": "kholachitthi.com (খোলা চিঠি)",
+  "description": "A secure, anonymous, and empathetic web platform based on the concept of the movie 'The Miracle of Namiya General Store.' The platform allows users struggling with depression, loneliness, and life's challenges to write letters and receive supportive, anonymous replies from a team of moderators.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
